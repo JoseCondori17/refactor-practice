@@ -1,2 +1,5 @@
-# refactor-practice
-Practica de refactor
+# Practica de refactor
+
+Integrantes
+- Cecilia Natali Pilco Padilla
+- Jose Eduardo Condori
